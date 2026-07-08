@@ -5,7 +5,7 @@
 
 I'm an aspiring **Digital Marketing professional** with a passion for **Artificial Intelligence, Social Media Marketing, and AI-driven Content Creation**. I enjoy combining marketing strategies with AI tools to create engaging content, automate workflows, and build practical solutions.
 
-## 🚀 Currently Working On
+## 🚀 Currently Learning & Building
 - AI-powered Digital Marketing
 - Social Media Management
 - Content Strategy
