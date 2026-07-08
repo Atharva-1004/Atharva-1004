@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Atharva Joshi 👋
 
-<!--
-**Atharva-1004/Atharva-1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BBA in Computer Applications Graduate  
+📍 Nashik, Maharashtra, India
 
-Here are some ideas to get you started:
+I'm an aspiring **Digital Marketing professional** with a passion for **Artificial Intelligence, Social Media Marketing, and AI-driven Content Creation**. I enjoy combining marketing strategies with AI tools to create engaging content, automate workflows, and build practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+- AI-powered Digital Marketing
+- Social Media Management
+- Content Strategy
+- Building AI-powered marketing workflows
+
+## 💼 Freelance Experience
+- Social Media Management
+- AI-Assisted Content Creation
+- SEO-Friendly Copywriting
+- Content Calendar Planning
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- PHP
+- JavaScript
+- HTML
+- CSS
+- MySQL
+
+**AI Tools**
+- ChatGPT
+- Claude
+- Gemini
+- Google AI Studio
+- NotebookLM
+- DeepSeek
+- Grok
+
+**Marketing & Design**
+- Canva
+- Figma
+- Meta Business Suite
+- Google Flow
+- VN Editor
+
+## 📌 Featured Projects
+- **MARA – Multiple Agent Research Assistant**
+- **SaarthiAI – AI Guidance Assistant** *(Repository coming soon)*
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/atharva-joshi-36aa67361
+- Email: joshiatharva1810@gmail.com
+
+---
+*"Learning, building, and applying AI to solve real-world marketing challenges."*
